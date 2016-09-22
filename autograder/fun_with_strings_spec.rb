@@ -1,4 +1,4 @@
-describe 'palindrome detection' do
+describe 'palindrome detection (cache test)' do
   it 'should work for simple strings [10 points]' do
     'redivider'.should  be_a_palindrome
     'abracadabra'.should_not  be_a_palindrome
