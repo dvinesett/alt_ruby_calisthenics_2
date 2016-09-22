@@ -1,4 +1,3 @@
-require 'dessert'
 require 'byebug'
 
 describe Dessert do

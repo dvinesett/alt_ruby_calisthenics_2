@@ -1,4 +1,3 @@
-require 'attr_accessor_with_history'
 require 'byebug'
 
 class TestClass1

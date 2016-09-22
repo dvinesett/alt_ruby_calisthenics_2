@@ -1,4 +1,3 @@
-require 'fun_with_strings'
 require 'byebug'
 
 describe 'palindrome detection' do

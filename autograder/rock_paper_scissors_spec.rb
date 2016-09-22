@@ -1,4 +1,3 @@
-require 'rock_paper_scissors'
 require 'byebug'
 
 describe RockPaperScissors do
